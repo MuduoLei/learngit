@@ -4,4 +4,4 @@ Git has a mutable index called stage;
 Git tracks changes of files.
 7777777
 9999999
-000000000
+aaaaaaaaaaaaa
